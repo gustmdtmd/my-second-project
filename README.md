@@ -45,7 +45,7 @@ make directory(작업 목록 생성)
 10. git restore --staged <파일명>   
      Staging Area의 파일을 Working Directory로 가져옴 
 
-![git sheat sheet](https://mblogthumb-phinf.pstatic.net/MjAyMDA3MjdfMjYx/MDAxNTk1ODQwNzczNjQ0.lrsd6U-QWHuyfFtpXB4uP6N5WBhimuxdZnI4hC5E1rgg.65C91KCurmm86zweigWbIIUky_2drhSz0sWUKkItW6kg.JPEG.jdusans/git_terminal_command_line_%EA%B9%83_%ED%84%B0%EB%AF%B8%EB%84%90_%EB%AA%85%EB%A0%B9%EC%96%B4.jpg?type=w800)
+![git sheat sheet](asset/gitsheatsheet.gif)
 
 |번호|이름|지역|
 |:---:|:---:|:---:|
